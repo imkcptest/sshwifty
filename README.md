@@ -1,3 +1,6 @@
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+
+
 # Sshwifty Web SSH & Telnet Client
 
 **Sshwifty is a SSH and Telnet connector made for the Web.** It can be deployed
